@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PET SHOP </title>
+       <link rel="stylesheet" type="text/css" href="homepage.css"/>
+  </head>
+  <body>
+  		<img src="logo.jpg"  />
+    		<h1 >PET SHOP</h1>	
+  </body>
+</html>
+

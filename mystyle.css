@@ -19,26 +19,26 @@ body{
 }
 
 #dog{
-  margin-top:60px;
+  margin-top:50px;
   width:48%;
   float:left;
   
 }
 
 #cat{
-  margin-top:60px;
+  margin-top:50px;
   width:50%;
   float:right;
 }
 
 #birds{
-  margin-top:60px;
+  margin-top:50px;
   width:48%;
   float:left;
 }
 
 #smallpets{
-  margin-top:60px;
+  margin-top:50px;
   width:50%;
   float:right;
 }

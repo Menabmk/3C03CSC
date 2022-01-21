@@ -52,7 +52,25 @@ body{
 }
 
 #dog p{
-  text-alogn:justify;
+  text-align:justify;
   font-style:italic;
-  font-size:20px;
+  font-size:15px;
+}
+
+#cat p{
+  text-align:justify;
+  font-style:italic;
+  font-size:15px;
+}
+
+#birds p{
+  text-align:justify;
+  font-style:italic;
+  font-size:15px;
+}
+
+#smallpets p{
+  text-align:justify;
+  font-style:italic;
+  font-size:15px;
 }

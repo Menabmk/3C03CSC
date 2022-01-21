@@ -15,6 +15,30 @@ body{
 }
 
 
+#dog{
+  margin-top:60px;
+  width:50%;
+  float:left;
+  
+}
+
+#cat{
+  margin-top:60px;
+  width:50%;
+  float:right;
+}
+
+#birds{
+  margin-top:60px;
+  width:50%;
+  float:left;
+}
+
+#smallpets{
+  margin-top:60px;
+  width:50%;
+  float:right;
+}
 
 
 

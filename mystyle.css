@@ -40,6 +40,16 @@ body{
   float:right;
 }
 
+#dog img{
+  width:30%;
+  height:400px;
+}
+
+
+#smallpets{
+  width:30%;
+  height:400px;
+}
 
 
 

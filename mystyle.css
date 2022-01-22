@@ -86,7 +86,20 @@ body{
   height:200px;
 }
 
+#wash p{
+  text-align:justify;
+  font-style:left;
+  font-size:15px;
+  color:black;
+  font-variant:small-caps;
+}
 
-
+#meals p{
+  text-align:justify;
+  font-style:left;
+  font-size:15px;
+  color:black;
+  font-variant:small-caps;
+}
 
 

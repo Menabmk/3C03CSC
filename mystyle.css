@@ -62,5 +62,18 @@ body{
 }
 
 
+#wash{
+  margin-top:20px;
+  width:46%;
+  float:left;
+} 
+  
+ #meals{
+  margin-top:20px;
+  width:46%;
+  float:right;
+ }   
+
+
 
 
